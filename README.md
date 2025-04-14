@@ -1,5 +1,3 @@
-[![Badge Commits]][Commit Rate]
-[![Badge Issues]][Issues]
 [![Badge Localization]][Crowdin]
 [![Badge License]][License]
 [![Badge NPM]][NPM]
@@ -13,27 +11,18 @@
 <sub>
 <img src="https://github.com/gorhill/uBlock/blob/master/src/img/ublock.svg" height="38" width="38">
 </sub>
-uBlock Origin (uBO)
+uBlock Origin (uBO) - Fork
 </h1>
+<p align="center">A modified version of uBlock Origin that automatically closes the blocked content tab instead of the showing the blocked page.</p>
 <p align="center">
 <sub><a href="https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org"><b>BEWARE!</b> uBO is (and has always been) COMPLETELY UNRELATED to the website <code>ublock.org</code></a>.</sub>
 </p>
 
 ***
 
-<p align="center">
-<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get uBlock Origin for Firefox"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get uBlock Origin for Microsoft Edge"></a>
-<a href="https://addons.opera.com/extensions/details/ublock/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get uBlock Origin for Opera"></a>
-<a href="https://addons.thunderbird.net/thunderbird/addon/ublock-origin/"><img src="https://user-images.githubusercontent.com/124740436/235314672-73243149-3683-4407-a2d5-ad0f2b08bc17.png" alt="Get uBlock Origin for Thunderbird"></a>
-</p>
-
-***
-
-<p align="center">
-<a href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get uBlock Origin for Chromium"></a><br>
-<sub><a href="https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22"><b>IMPORTANT</b>: About Google Chrome's "This extension may soon no longer be supported"</a></sub>
-</p>
+Downloads:
+- [Chromium](https://github.com/esoterik-dev/uBlock/releases/download/1.63.3b16/uBlock0_1.63.3b16.chromium.zip) [[How to install](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)]
+- [Firefox](https://github.com/esoterik-dev/uBlock/releases/download/1.63.3b16/uBlock0_1.63.3b16.firefox.xpi) [[How to install](https://stackoverflow.com/a/31952728)]
 
 ***
 
